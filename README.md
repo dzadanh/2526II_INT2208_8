@@ -1,1 +1,1 @@
-# 2526II_INT2208_8
+Repo github môn Công nghệ phần mềm của Đặng Duy Anh
